@@ -41,7 +41,7 @@ A cloud-native **Computer Vision application** that automatically identifies and
 5. Visualization → Script parses data and draws bounding boxes on image
 ```
 
-### Architecture Diagram
+### AWS Services Used
 
 ![S3 Bucket](aws-s3-bucket.png)
 *S3 bucket containing test images for analysis*
